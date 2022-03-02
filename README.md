@@ -1,7 +1,7 @@
 ### Hi there 👋. Nice to meet you! 🥸
  [![Github](https://img.shields.io/github/followers/dykderrick?label=Followers&style=social)](https://github.com/dykderrick)
 
-- 📖 I am now pursuing a dual degree at THU and UW. The program is [GIX](https://gixnetwork.org).
+- 📖 I am now pursuing a dual degree at THU and UW. The program is [GIX](https://gixnetwork.org). I also work as an intern at Amazon (China) [Lab126](https://www.amazon.jobs/en/teams/lab126) now.
 - 😄 I always feel energetic to pack myself with more coding skills.
 - 🎮 I do also play video games! Connect me on [Steam](https://steamcommunity.com/id/dykderrick/) and [Xbox Live](http://live.xbox.com/Profile?Gamertag=dykderrick)!
 
