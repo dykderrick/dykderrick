@@ -5,8 +5,6 @@
 - 😄 I always feel energetic to pack myself with more coding skills.
 - 🎮 I do also play video games! Connect me on [Steam](https://steamcommunity.com/id/dykderrick/) and [Xbox Live](http://live.xbox.com/Profile?Gamertag=dykderrick)!
 
-[![Derrick's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=dykderrick&layout=compact)](https://github.com/dykderrick)
-
 [![Derrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dykderrick)](https://github.com/dykderrick)
 
 <!--
