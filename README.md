@@ -11,6 +11,7 @@ Derrick is now a graduate student at the University of Washington, graduating in
 <!-- - 🎮 I do also play video games! Connect me on [Steam](https://steamcommunity.com/id/dykderrick/) and [Xbox Live](http://live.xbox.com/Profile?Gamertag=dykderrick)! -->
 
 Open Source contributions
+
 [![Derrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dykderrick)](https://github.com/dykderrick)
 
 <!--
