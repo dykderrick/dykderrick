@@ -2,7 +2,7 @@
  [![Github](https://img.shields.io/github/followers/dykderrick?label=Followers&style=social)](https://github.com/dykderrick)
 
 
-Derrick is now a graduate student at the University of Washington, graduating in the Spring of 2024.
+Derrick is now a graduate student at the University of Washington, graduating in the Spring of 2025.
 
 Connect me on [LinkedIn](https://www.linkedin.com/in/yingke-derrick-ding/).
 
